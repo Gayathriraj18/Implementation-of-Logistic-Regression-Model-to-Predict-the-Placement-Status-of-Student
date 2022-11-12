@@ -101,17 +101,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![43](https://user-images.githubusercontent.com/94154854/201481547-850a368d-118f-4ee5-b412-4646c86b219e.png)
 
-# X:
+# LABEL ENCODER:
 
 ![44](https://user-images.githubusercontent.com/94154854/201481557-583d2c1f-cd9b-48f1-9812-b669978e56dd.png)
 
-# Y:
+# X:
 
 ![45](https://user-images.githubusercontent.com/94154854/201481570-86672590-b2f3-494d-8888-dbb2474cf84b.png)
 
-# Y PREDICTION:
+# Y:
 
 ![46](https://user-images.githubusercontent.com/94154854/201481578-7d27cf3c-5ce1-445f-8402-09a34cbbdd4e.png)
+
+# Y PREDICTION:
 
 ![47](https://user-images.githubusercontent.com/94154854/201481589-962cc061-c48b-4fe3-afe4-d6a6af75cf21.png)
 
