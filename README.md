@@ -115,17 +115,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![47](https://user-images.githubusercontent.com/94154854/201481589-962cc061-c48b-4fe3-afe4-d6a6af75cf21.png)
 
-![48](https://user-images.githubusercontent.com/94154854/201481594-a0b69aa3-7264-4f17-be92-84058edb3445.png)
-
 # ACCURACY:
-![49](https://user-images.githubusercontent.com/94154854/201481599-21429887-a2a2-4ab2-8af5-85d0a70764c9.png)
+
+![48](https://user-images.githubusercontent.com/94154854/201481594-a0b69aa3-7264-4f17-be92-84058edb3445.png)
 
 
 # COFUSION:
 
-![50](https://user-images.githubusercontent.com/94154854/201481604-2dfd3daf-f4f4-4927-b9d9-ea8946e748e6.png)
+![49](https://user-images.githubusercontent.com/94154854/201481599-21429887-a2a2-4ab2-8af5-85d0a70764c9.png)
 
 # CLASSIFICATION:
+
+![50](https://user-images.githubusercontent.com/94154854/201481604-2dfd3daf-f4f4-4927-b9d9-ea8946e748e6.png)
 
 ![511](https://user-images.githubusercontent.com/94154854/201481615-9ad54779-46a8-41a5-89bd-25234bc808ac.png)
 
