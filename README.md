@@ -30,7 +30,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: Gayathri A
 RegisterNumber:  212221230028
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib as plt
